@@ -1,0 +1,13 @@
+{
+  "name": "nova bot",
+  "version": "1.0.0",
+  "description": "Bot Discord Nova RP pour School RP",
+  "main": "index.js",
+  "scripts": { "start": "node index.js", "dev": "node index.js" },
+  "engines": { "node": ">=20.0.0" },
+  "dependencies": {
+    "discord.js": "^14.22.0",
+    "dotenv": "^16.6.1",
+    "ms": "^2.1.3"
+  }
+}
